@@ -2,13 +2,12 @@
 
 # Proyecto – Interfaz Gráfica de Usuario
 
-## Unidad I – Programación
+## Unidad I 
 
-Alumno: Luis Angel
+Alumno: Luis Angel  Rodriguez Flores
 
-Materia: Programación
+Materia: TOPICOS AVANZADOS DE PROGRAMACION
 
-Tema: Interfaz Gráfica de Usuario
 
 ---
 
